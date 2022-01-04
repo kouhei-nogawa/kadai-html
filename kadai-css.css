@@ -2,13 +2,11 @@
 
 header{
     width: 1000px;
-    margin:0 auto;
     background-color: #ffcccc;
 }
 
 #wrapper{
     width: 1000px;
-    margin: 0 auto;
     display: flex;
     justify-content:space-between;
 }
@@ -24,7 +22,6 @@ header{
 }
 
 footer{
-    margin:0 auto;
     width: 1000px;
     background-color: #ffccff;
 }
